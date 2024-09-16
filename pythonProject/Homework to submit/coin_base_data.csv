@@ -1,0 +1,173 @@
+name,min_size,id
+United Arab Emirates Dirham,0.01,AED
+Afghan Afghani,0.01,AFN
+Albanian Lek,0.01,ALL
+Armenian Dram,0.01,AMD
+Netherlands Antillean Gulden,0.01,ANG
+Angolan Kwanza,0.01,AOA
+Argentine Peso,0.01,ARS
+Australian Dollar,0.01,AUD
+Aruban Florin,0.01,AWG
+Azerbaijani Manat,0.01,AZN
+Bosnia and Herzegovina Convertible Mark,0.01,BAM
+Barbadian Dollar,0.01,BBD
+Bangladeshi Taka,0.01,BDT
+Bulgarian Lev,0.01,BGN
+Bahraini Dinar,0.001,BHD
+Burundian Franc,1,BIF
+Bermudian Dollar,0.01,BMD
+Brunei Dollar,0.01,BND
+Bolivian Boliviano,0.01,BOB
+Real,0.01,BRL
+Bahamian Dollar,0.01,BSD
+Bhutanese Ngultrum,0.01,BTN
+Botswana Pula,0.01,BWP
+Belarusian Ruble,0.01,BYN
+Belarusian Ruble,1,BYR
+Belize Dollar,0.01,BZD
+Canadian Dollar,0.01,CAD
+Congolese Franc,0.01,CDF
+Swiss Franc,0.01,CHF
+Unidad de Fomento,0.0001,CLF
+Chilean Peso,1,CLP
+Chinese Renminbi Yuan,0.01,CNY
+Colombian Peso,0.01,COP
+Costa Rican Colón,0.01,CRC
+Cuban Convertible Peso,0.01,CUC
+Cuban Peso,0.01,CUP
+Cape Verdean Escudo,0.01,CVE
+Czech Koruna,0.01,CZK
+Djiboutian Franc,1,DJF
+Danish Krone,0.01,DKK
+Dominican Peso,0.01,DOP
+Algerian Dinar,0.01,DZD
+Egyptian Pound,0.01,EGP
+Ethiopian Birr,0.01,ETB
+Euro,0.01,EUR
+Fijian Dollar,0.01,FJD
+Falkland Pound,0.01,FKP
+British Pound,0.01,GBP
+Georgian Lari,0.01,GEL
+Ghanaian Cedi,0.01,GHS
+Gibraltar Pound,0.01,GIP
+Gambian Dalasi,0.01,GMD
+Guinean Franc,1,GNF
+Guatemalan Quetzal,0.01,GTQ
+Guyanese Dollar,0.01,GYD
+Hong Kong Dollar,0.01,HKD
+Honduran Lempira,0.01,HNL
+Croatian Kuna,0.01,HRK
+Haitian Gourde,0.01,HTG
+Hungarian Forint,1,HUF
+Indonesian Rupiah,0.01,IDR
+Israeli New Sheqel,0.01,ILS
+Indian Rupee,0.01,INR
+Iraqi Dinar,0.001,IQD
+Iranian Rial,0.01,IRR
+Icelandic Króna,1,ISK
+Jamaican Dollar,0.01,JMD
+Jordanian Dinar,0.001,JOD
+Japanese Yen,1,JPY
+Kenyan Shilling,0.01,KES
+Kyrgyzstani Som,0.01,KGS
+Cambodian Riel,0.01,KHR
+Comorian Franc,1,KMF
+South Korean Won,1,KRW
+Kuwaiti Dinar,0.001,KWD
+Cayman Islands Dollar,0.01,KYD
+Kazakhstani Tenge,0.01,KZT
+Lao Kip,0.01,LAK
+Lebanese Pound,0.01,LBP
+Sri Lankan Rupee,0.01,LKR
+Liberian Dollar,0.01,LRD
+Lesotho Loti,0.01,LSL
+Libyan Dinar,0.001,LYD
+Moroccan Dirham,0.01,MAD
+Moldovan Leu,0.01,MDL
+Malagasy Ariary,0.1,MGA
+Macedonian Denar,0.01,MKD
+Myanmar Kyat,0.01,MMK
+Mongolian Tögrög,0.01,MNT
+Macanese Pataca,0.01,MOP
+Mauritanian Ouguiya,0.1,MRU
+Mauritian Rupee,0.01,MUR
+Maldivian Rufiyaa,0.01,MVR
+Malawian Kwacha,0.01,MWK
+Mexican Peso,0.01,MXN
+Malaysian Ringgit,0.01,MYR
+Mozambican Metical,0.01,MZN
+Namibian Dollar,0.01,NAD
+Nigerian Naira,0.01,NGN
+Nicaraguan Córdoba,0.01,NIO
+Norwegian Krone,0.01,NOK
+Nepalese Rupee,0.01,NPR
+New Zealand Dollar,0.01,NZD
+Omani Rial,0.001,OMR
+Panamanian Balboa,0.01,PAB
+Peruvian Sol,0.01,PEN
+Papua New Guinean Kina,0.01,PGK
+Philippine Peso,0.01,PHP
+Pakistani Rupee,0.01,PKR
+Polish Złoty,0.01,PLN
+Paraguayan Guaraní,1,PYG
+Qatari Riyal,0.01,QAR
+Romanian Leu,0.01,RON
+Serbian Dinar,0.01,RSD
+Russian Ruble,0.01,RUB
+Rwandan Franc,1,RWF
+Saudi Riyal,0.01,SAR
+Solomon Islands Dollar,0.01,SBD
+Seychellois Rupee,0.01,SCR
+Sudanese Pound,0.01,SDG
+Swedish Krona,0.01,SEK
+Singapore Dollar,0.01,SGD
+Saint Helenian Pound,0.01,SHP
+Slovak Koruna,0.01,SKK
+Sierra Leonean Leone,0.01,SLL
+Somali Shilling,0.01,SOS
+Surinamese Dollar,0.01,SRD
+São Tomé and Príncipe Dobra,0.01,STD
+Salvadoran Colón,0.01,SVC
+Swazi Lilangeni,0.01,SZL
+Thai Baht,0.01,THB
+Tajikistani Somoni,0.01,TJS
+Turkmenistani Manat,0.01,TMT
+Tunisian Dinar,0.001,TND
+Tongan Paʻanga,0.01,TOP
+Turkish Lira,0.01,TRY
+Trinidad and Tobago Dollar,0.01,TTD
+New Taiwan Dollar,0.01,TWD
+Tanzanian Shilling,0.01,TZS
+Ukrainian Hryvnia,0.01,UAH
+Ugandan Shilling,1,UGX
+United States Dollar,0.01,USD
+Uruguayan Peso,0.01,UYU
+Uzbekistan Som,0.01,UZS
+Venezuelan Bolívar Soberano,0.01,VES
+Vietnamese Đồng,1,VND
+Vanuatu Vatu,1,VUV
+Samoan Tala,0.01,WST
+Central African Cfa Franc,1,XAF
+Silver (Troy Ounce),1,XAG
+Gold (Troy Ounce),1,XAU
+East Caribbean Dollar,0.01,XCD
+Special Drawing Rights,1,XDR
+West African Cfa Franc,1,XOF
+Palladium,1,XPD
+Cfp Franc,1,XPF
+Platinum,1,XPT
+Yemeni Rial,0.01,YER
+South African Rand,0.01,ZAR
+Zambian Kwacha,0.01,ZMK
+Zambian Kwacha,0.01,ZMW
+Estonian Kroon,0.01,EEK
+Lithuanian Litas,0.01,LTL
+Latvian Lats,0.01,LVL
+Mauritanian Ouguiya,0.1,MRO
+Turkmenistani Manat,0.01,TMM
+Zimbabwean Dollar,0.01,ZWD
+Venezuelan Bolívar,0.01,VEF
+Jersey Pound,0.01,JEP
+Guernsey Pound,0.01,GGP
+Isle of Man Pound,0.01,IMP
+Chinese Renminbi Yuan Offshore,0.01,CNH
